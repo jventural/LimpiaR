@@ -1,0 +1,92 @@
+"codigo","fecha","momento","turno","grupo","sexo","edad","tiempo_dm","tratamiento_dm","consentimiento","psicoterapia","asistencia","PHQ1","PHQ2","PHQ3","PHQ4","PHQ5","PHQ6","PHQ7","PHQ8","PHQ9"
+"PS-001","2027-08-02","Pretest","Mañana","experimental","Femenino",39,4,"Insulina","Sí","No",,2,2,3,2,1,3,2,1,2
+"PS-009","2027-08-02","Pretest","Mañana","Experimental","Hombre",39,10,"Insulina","Sí","No",,2,1,1,2,1,1,1,0,0
+"PS-010","2027-08-02","Pretest","Mañana","Experimental","Femenino",50,1,"Oral","Sí","No",,2,2,2,2,2,2,3,2,1
+"PS-011","2027-08-02","Pretest","Mañana","experimental","Hombre",46,10,"Insulina","Sí","No",,2,1,2,2,3,2,2,1,0
+"PS-015","2027-08-02","Pretest","Mañana","Experimental","Masculino",56,6,"Oral + insulina","Sí","No",,2,1,1,2,3,1,2,0,0
+"PS-018","2027-08-02","Pretest","Tarde","Control","masculino",65,9,"Insulina","Sí","No",,3,1,2,3,3,2,2,1,0
+"PS-019","2027-08-02","Pretest","Mañana","Experimental","masculino",46,4,"Oral","Sí","No",,2,3,3,3,3,3,3,2,1
+"PS-023","2027-08-02","Pretest","Tarde","Control","Femenino",51,10,"Oral","Sí","No",,0,1,1,0,0,0,0,0,0
+"PS-032","2027-08-02","Pretest","Tarde","Control","Masculino",62,8,"Oral","Sí","No",,1,1,3,2,1,2,0,0,1
+"PS-035","2027-08-02","Pretest","Tarde","Control","Masculino",51,7,"Insulina","Si","No",,1,2,3,3,2,1,2,1,0
+"PS-040","2027-08-02","Pretest","Tarde","Control","Femenino",52,6,"Oral","Sí","No",,1,0,1,1,0,2,0,0,0
+"PS-044","2027-08-02","Pretest","Tarde","control","Femenino",54,6,"Oral","No","No",,,,,,,,,,
+"PS-047","2027-08-02","Pretest","Tarde","Control","Femenino",53,6,"Oral","Sí","No",,1,1,2,3,2,0,0,1,1
+"PS-050","2027-08-02","Pretest","Mañana","Exp.","masculino",50,12,"Insulina","Sí","No",,0,0,1,1,1,0,1,0,0
+"PS-051","2027-08-02","Pretest","Tarde","control","Masculino",39,3,"Oral","Sí","No",,0,0,2,2,3,1,0,0,0
+"PS-053","2027-08-02","Pretest","Mañana","experimental","Femenino",39,8,"Insulina","Sí","No",,1,1,1,2,2,1,1,0,0
+"PS-055","2027-08-02","Pretest","Tarde","control","femenino",49,12,"Insulina","Sí","No",,0,1,0,0,1,0,1,0,0
+"PS-057","2027-08-02","Pretest","Mañana","Experimental","Hombre",39,5,"Oral","Sí","No",,1,0,1,2,2,1,1,0,0
+"PS-068","2027-08-02","Pretest","Tarde","Control","masculino",57,6,"Insulina","Sí","No",,0,1,2,0,2,0,1,1,0
+"PS-005","2027-08-03","Pretest","Mañana","Experimental","Femenino",47,5,"Oral","Si","No",,1,2,3,2,1,0,1,1,0
+"PS-012","2027-08-03","Pretest","Tarde","Control","Masculino",52,8,"Oral","Sí","No",,0,0,0,0,1,0,0,0,0
+"PS-014","2027-08-03","Pretest","Mañana","Experimental","Femenino",40,10,"Oral","Sí","No",,1,0,1,1,0,0,1,0,0
+"PS-016","2027-08-03","Pretest","Mañana","experimental","Hombre",51,2,"Oral","Sí","No",,2,2,3,3,2,2,2,1,1
+"PS-027","2027-08-03","Pretest","Tarde","Control","Mujer",54,5,"Oral","Sí","No",,1,1,1,2,1,0,0,0,0
+"PS-030","2027-08-03","Pretest","Tarde","Control","Mujer",36,6,"Oral + insulina","Sí","No",,1,2,3,2,3,2,2,1,1
+"PS-037","2027-08-03","Pretest","Mañana","experimental","Masculino",49,2,"Insulina","Sí","No",,1,0,2,0,1,0,1,1,0
+"PS-049","2027-08-03","Pretest","Tarde","control","Femenino",44,12,"Oral","Si","No",,2,2,2,2,,1,,,1
+"PS-054","2027-08-03","Pretest","Mañana","Experimental","femenino",51,5,"Oral","Sí","No",,0,0,1,1,0,1,0,0,0
+"PS-056","2027-08-03","Pretest","Mañana","Experimental","masculino",47,10,"Oral","Sí","No",,0,0,0,0,0,0,0,0,0
+"PS-060","2027-08-03","Pretest","Mañana","experimental","Femenino",44,6,"Oral","Sí","No",,0,0,1,0,0,0,0,0,0
+"PS-061","2027-08-03","Pretest","Tarde","Control","Hombre",48,10,"Oral","Sí","No",,0,0,1,1,1,0,1,0,0
+"PS-063","2027-08-03","Pretest","Tarde","Control","Masculino",46,3,"Insulina","Sí","No",,3,2,3,3,3,1,2,2,0
+"PS-003","2027-08-04","Pretest","Tarde","control","Femenino",46,3,"Oral","Sí","No",,1,1,1,0,2,1,0,0,0
+"PS-007","2027-08-04","Pretest","Mañana","Experimental","Femenino",47,10,"Oral","Sí","No",,0,0,1,2,0,0,0,0,0
+"PS-017","2027-08-04","Pretest","Tarde","Control","Femenino",56,9,"Oral","Sí","No",,0,1,1,2,1,2,2,1,0
+"PS-026","2027-08-04","Pretest","Tarde","Control","Femenino",51,4,"Oral + insulina","Si","No",,2,1,3,3,2,3,1,1,0
+"PS-034","2027-08-04","Pretest","Tarde","Control","Femenino",57,11,"Oral + insulina","Sí","No",,1,2,2,3,2,1,2,1,0
+"PS-036","2027-08-04","Pretest","Tarde","control","Masculino",59,9,"Oral","Sí","No",,0,1,1,2,1,1,0,0,0
+"PS-038","2027-08-04","Pretest","Mañana","Experimental","Hombre",56,7,"Insulina","Si","Sí",,2,1,3,2,2,2,2,2,1
+"PS-045","2027-08-04","Pretest","Mañana","experimental","Femenino",48,9,"Oral","Si","Sí",,1,1,1,1,1,1,1,0,0
+"PS-052","2027-08-04","Pretest","Tarde","Control","Femenino",46,7,"Oral","Si","No",,1,1,1,3,1,0,1,1,1
+"PS-064","2027-08-04","Pretest","Tarde","Control","masculino",52,8,"Insulina","Sí","No",,0,1,3,3,2,1,1,1,0
+"PS-066","2027-08-04","Pretest","Mañana","Experimental","femenino",45,4,"Insulina","Sí","No",,0,0,1,1,1,0,0,0,0
+"PS-002","2027-08-05","Pretest","Tarde","Control","Femenino",33,5,"Insulina","Sí","No",,1,0,0,0,1,2,1,1,0
+"PS-008","2027-08-05","Pretest","Tarde","Control","masculino",49,11,"Oral","Sí","No",,3,2,2,2,2,2,2,1,0
+"PS-013","2027-08-05","Pretest","Tarde","control","Femenino",59,12,"Oral","Sí","No",,1,1,1,0,1,0,0,0,0
+"PS-020","2027-08-05","Pretest","Tarde","control","Femenino",54,8,"Oral","Sí","No",,1,0,1,1,1,0,0,0,0
+"PS-022","2027-08-05","Pretest","Mañana","Experimental","Hombre",35,5,"Oral","Si","No",,3,1,3,2,2,2,2,0,1
+"PS-024","2027-08-05","Pretest","Tarde","Control","femenino",50,10,"Insulina","Sí","No",,1,1,1,1,2,0,0,1,0
+"PS-031","2027-08-05","Pretest","Mañana","experimental","masculino",45,6,"Oral","Sí","No",,0,0,0,2,1,1,0,0,0
+"PS-033","2027-08-05","Pretest","Tarde","Control","masculino",50,8,"Oral","Si","No",,1,0,2,1,1,0,0,0,0
+"PS-039","2027-08-05","Pretest","Mañana","Experimental","Masculino",44,5,"Oral","Sí","No",,1,0,2,1,1,1,0,1,0
+"PS-046","2027-08-05","Pretest","Tarde","Control","Hombre",50,7,"Insulina","Si","No",,2,1,2,2,1,0,0,1,0
+"PS-058","2027-08-05","Pretest","Mañana","Experimental","Masculino",55,5,"Insulina","Sí","No",,1,2,2,3,2,3,2,2,1
+"PS-062","2027-08-05","Pretest","Mañana","Experimental","Masculino",51,1,"Oral","Sí","No",,2,2,3,3,1,2,1,1,0
+"PS-065","2027-08-05","Pretest","Tarde","Control (lista de espera)","Masculino",52,8,"Oral","Si","No",,1,0,2,3,2,1,1,1,0
+"PS-067","2027-08-05","Pretest","Tarde","control","Mujer",51,10,"Oral","No","No",,,,,,,,,,
+"PS-004","2027-08-06","Pretest","Mañana","Experimental","Femenino",49,4,"Insulina","Sí","No",,0,0,0,1,0,0,1,1,0
+"PS-006","2027-08-06","Pretest","Tarde","Control (lista de espera)","Femenino",42,14,"Insulina","Sí","No",,2,2,2,3,2,1,1,1,1
+"PS-021","2027-08-06","Pretest","Mañana","experimental","Masculino",32,7,"Oral","Sí","No",,2,1,2,2,2,2,2,2,0
+"PS-025","2027-08-06","Pretest","Mañana","Experimental","Masculino",42,7,"Oral","Sí","No",,3,2,3,2,2,2,1,1,0
+"PS-028","2027-08-06","Pretest","Tarde","Control","Femenino",43,14,"Insulina","Sí","No",,0,1,1,2,1,0,1,0,0
+"PS-029","2027-08-06","Pretest","Mañana","Experimental","Femenino",55,10,"Oral","Sí","Sí",,2,2,1,1,1,2,1,1,0
+"PS-041","2027-08-06","Pretest","Mañana","Experimental","Femenino",55,4,"Oral","Sí","No",,0,0,1,2,0,0,0,0,0
+"PS-042","2027-08-06","Pretest","Tarde","Control","Femenino",57,9,"Oral","Sí","No",,1,0,0,0,0,0,0,0,0
+"PS-043","2027-08-06","Pretest","Mañana","experimental","Femenino",47,1,"Oral","Si","No",,0,0,1,1,0,1,1,0,0
+"PS-048","2027-08-06","Pretest","Mañana","Experimental","Femenino",27,4,"Insulina","Sí","No",,3,1,2,3,1,1,0,2,0
+"PS-059","2027-08-06","Pretest","Tarde","Control","Femenino",47,1,"Oral","Si","No",,0,0,1,0,2,0,0,0,0
+"PS-069","2027-08-06","Pretest","Tarde","Control (lista de espera)","Mujer",51,10,"Insulina","Sí","No",,0,0,1,1,1,1,1,1,0
+"PS-070","2027-08-06","Pretest","Mañana","experimental","Masculino",50,11,"Oral","Sí","No",,0,0,1,1,0,0,1,0,0
+"PS-035","2027-08-30","Postest","Tarde","Control","Masculino",51,7,"Insulina","Sí","No",,2,2,2,3,1,1,1,0,0
+"PS-047","2027-08-30","Postest","Tarde","Control","Femenino",53,6,"Oral","Sí","No",,2,1,3,1,1,4,1,1,1
+"PS-001","2027-08-31","Postest","Mañana","experimental","Femenino",39,4,"Insulina","Sí","No",8,1,1,2,3,0,1,1,0,0
+"PS-005","2027-08-31","Postest","Mañana","Experimental","Femenino",47,5,"Oral","Sí","No",8,0,0,0,0,1,0,1,0,0
+"PS-010","2027-08-31","Postest","Mañana","Experimental","Femenino",50,1,"Oral","Sí","No",7,1,1,1,1,1,1,2,3,0
+"PS-016","2027-08-31","Postest","Mañana","experimental","Hombre",51,2,"Oral","Sí","No",8,1,1,1,1,0,0,1,0,0
+"PS-019","2027-08-31","Postest","Mañana","Experimental","masculino",46,4,"Oral","Sí","No",8,1,1,1,2,2,1,2,1,0
+"PS-011","2027-09-01","Postest","Mañana","experimental","Hombre",46,10,"Insulina","Sí","No",8,1,2,2,3,2,0,2,1,0
+"PS-015","2027-09-01","Postest","Mañana","Experimental","Masculino",56,6,"Oral + insulina","Sí","No",8,1,1,2,1,1,2,1,1,0
+"PS-017","2027-09-01","Postest","Tarde","Control","Femenino",56,9,"Oral","Sí","No",,1,1,2,2,1,0,1,1,0
+"PS-026","2027-09-01","Postest","Tarde","Control","Femenino",51,4,"Oral + insulina","Sí","No",,2,1,2,2,2,1,2,1,0
+"PS-052","2027-09-01","Postest","Tarde","Control","Femenino",46,7,"Oral","Sí","No",,0,1,,1,1,0,1,0,0
+"PS-063","2027-09-01","Postest","Tarde","Control","Masculino",46,3,"Insulina","Sí","No",,2,2,1,3,1,2,2,2,0
+"PS-008","2027-09-02","Postest","Tarde","Control","masculino",49,11,"Oral","Sí","No",,1,2,1,3,2,3,1,3,0
+"PS-022","2027-09-02","Postest","Mañana","Experimental","Hombre",35,5,"Oral","Sí","No",7,0,1,2,1,2,1,0,1,0
+"PS-034","2027-09-03","Postest","Tarde","Control","Femenino",57,11,"Oral + insulina","Sí","No",,2,2,1,2,3,2,3,1,0
+"PS-062","2027-09-03","Postest","Mañana","Experimental","Masculino",51,1,"Oral","Sí","No",5,1,1,3,1,0,1,2,0,0
+"PS-065","2027-09-03","Postest","Tarde","Control (lista de espera)","Masculino",52,8,"Oral","Sí","No",,1,2,2,2,2,1,0,0,0
+"PS-021","2027-09-04","Postest","Mañana","experimental","Masculino",32,7,"Oral","Sí","No",7,2,2,1,3,1,0,2,0,1
+"PS-006","2027-09-05","Postest","Tarde","Control (lista de espera)","Femenino",42,14,"Insulina","Sí","No",,2,2,2,2,1,1,2,1,1
+"PS-025","2027-09-05","Postest","Mañana","Experimental","Masculino",42,7,"Oral","Sí","No",6,0,0,2,1,1,1,1,0,0

@@ -1,0 +1,17 @@
+Package: LimpiaR
+Type: Package
+Title: Limpieza de Datos de Encuestas en Pocos Pasos
+Version: 0.1.0
+Authors@R: person("Jose", "Ventura-Leon", email = "jventuraleon@gmail.com", role = c("aut", "cre"))
+Description: Siete funciones cortas, una por paso, para limpiar una base que
+    llega de un formulario: leer, revisar, unificar categorias, validar rangos,
+    sumar puntajes, excluir con criterios en orden (con su flujo de
+    participantes) y guardar. Pensada para tesistas que empiezan en R y
+    compartida por los disenos cuasiexperimental, predictivo y de redes.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1)
+Imports: graphics, stats, tools, utils
+Suggests: readxl, writexl
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
